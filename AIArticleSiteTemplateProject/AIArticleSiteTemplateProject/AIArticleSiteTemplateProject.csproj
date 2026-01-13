@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="13.8.0" />
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.10.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
     <PackageReference Include="SixLabors.ImageSharp" Version="3.1.4" />
     <ProjectReference Include="..\AIArticleSiteTemplateProject.Client\AIArticleSiteTemplateProject.Client.csproj" />
